@@ -1,0 +1,1 @@
+/* here we are going to write code about insaniting states class, taking inputs no of state also it genration in hex number */
